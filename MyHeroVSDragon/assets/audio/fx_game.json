@@ -1,0 +1,23 @@
+{
+              "resources": [
+               "./assets/audio/fx_game.ogg",
+               "./assets/audio/fx_game.mp3"
+                           ],
+              "spritemap": {
+                 "coin": {
+                 "start": 0,
+                 "end": 0.3,
+                 "loop": false
+                        },
+               "jump": {
+                  "start": 0.5,
+                  "end": 0.9,
+                  "loop": false
+                      },
+                "death": {
+                  "start": 1,
+                   "end": 2.8,
+                  "loop": false
+                }
+                           }
+}

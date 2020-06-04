@@ -5,4 +5,4 @@ My Hero VS Dragon is a web game developed by using Phaser 3, a HTML5 game framew
   
 ## Robot car's control system
 This is a intergrated project in HDEIE in HKPolyU. The project is aimed to design control system for robot car.  
-![demo2](assets/videos/demo2.avi "demo2")  
+![demo3](assets/videos/demo3.avi "demo3")  

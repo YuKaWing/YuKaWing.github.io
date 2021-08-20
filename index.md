@@ -10,7 +10,8 @@ This was a service learning project under the Department of Biomedical Engineeri
 Overwhelmed is a moblie game developed with Unity. It was a integrated group project of BscIMT of HKPolyU, I involved in the game design and most of the programming part of the game.  
 <!--<img src="assets/images/Overwhelmed.jpg" alt="Overwhelmed is a good game" width="500"/>-->  
 <iframe width="728" height="410" src="https://www.youtube.com/embed/JZnMalX_x2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<a href="https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk">Download apk</a>  
+<!--<a href="https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk">Download apk</a>-->
+<button onclick="window.open('https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk')" type="button"><b>Click to Play</b></button>
   
 <h1><b>My Hero VS Dragon</b></h1>  
 My Hero VS Dragon is a web game developed with Phaser 3, a HTML5 game framework. It was a group project of BscIMT in HKPolyU and I involved in the game mechanism design and level designs of  "inside castle", "outside castle" and "cliff".  
@@ -20,6 +21,6 @@ My Hero VS Dragon is a web game developed with Phaser 3, a HTML5 game framework.
   
 <h1><b>Robot car's control system</b></h1>
 This was a intergrated project of HDEIE in HKPolyU. The project was aimed to program a control system for a robot car.  
-<a href="https://youtu.be/fUyfqqz9Zbg" target="_blank">View demo2</a>  
-<a href="https://youtu.be/7fppypZXFQE" target="_blank">View demo3</a>  
-<a href="https://youtu.be/5qAJM77eF_k" target="_blank">View demo4</a>  
+<iframe width="728" height="410" src="https://www.youtube.com/embed/2e2y3eIyW04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/AA_zwU1kvqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/PRHdDNg9J_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

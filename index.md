@@ -11,7 +11,7 @@ Overwhelmed is a moblie game developed with Unity. It was a integrated group pro
 <!--<img src="assets/images/Overwhelmed.jpg" alt="Overwhelmed is a good game" width="500"/>-->  
 <iframe width="728" height="410" src="https://www.youtube.com/embed/JZnMalX_x2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <!--<a href="https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk">Download apk</a>-->
-<button onclick="window.open('https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk')" type="button"><b>Click to Play</b></button>
+<button onclick="window.open('https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk')" type="button"><b>Download apk</b></button>
   
 <h1><b>My Hero VS Dragon</b></h1>  
 My Hero VS Dragon is a web game developed with Phaser 3, a HTML5 game framework. It was a group project of BscIMT in HKPolyU and I involved in the game mechanism design and level designs of  "inside castle", "outside castle" and "cliff".  

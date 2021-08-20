@@ -1,18 +1,3 @@
-<style>
-  .button {
-    background-color: #009933;
-    border: none;
-    color: white;
-    padding: 20px 42px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 32px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-</style>
-
 <h1><b>Deep Learning for Content-based Image Retrieval</b></h1>
 This was a final year project of BscIMT. AIs were trained with TensorFlow in Python. This project applied deep learning on content-based image retrieval by extracting features from fine-tuned VGG16 and fine-tuned ResNet50. It was found that fine-tuned ResNet50 was a better image descriptor than fine-tuned VGG16.
 <iframe width="728" height="410" src="https://www.youtube.com/embed/q0gc9qqTNK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

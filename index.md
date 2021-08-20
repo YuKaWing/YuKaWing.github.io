@@ -1,11 +1,15 @@
+<h1><b>Drum Game for the Elderly</b></h1>
+This was a service learning project under the Department of Biomedical Engineering of HKPolyU aimed to provide entertainment for the elderly. This game was developed with Unity. I was responsible for the duo mode, drum beat editing system, UI design and data design of the game.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irHXQbMf88M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h1>Overwhelmed!</h1>
-Overwhelmed is a moblie game developed by Unity. It is a integrated group project in my subject of BscIMT of HKPolyU, I involved in the game design and most of the programming part of the game.  
+Overwhelmed is a moblie game developed with Unity. It is a integrated group project in BscIMT of HKPolyU, I involved in the game design and most of the programming part of the game.  
 <!--<img src="assets/images/Overwhelmed.jpg" alt="Overwhelmed is a good game" width="500"/>-->  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZnMalX_x2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <a href="https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk">Download apk</a>  
   
 <h1>My Hero VS Dragon</h1>  
-My Hero VS Dragon is a web game developed by using Phaser 3, a HTML5 game framework. It was a group project in my subject of BscIMT in HKPolyU and I involved in the game mechanisem desigm and level designs of  "inside castle", "outside castle" and "cliff".  
+My Hero VS Dragon is a web game developed with Phaser 3, a HTML5 game framework. It was a group project in BscIMT in HKPolyU and I involved in the game mechanism design and level designs of  "inside castle", "outside castle" and "cliff".  
 <img src="assets/images/MHVSD.JPG" alt="My Hero VS Dragon is a good game" width="500"/>   
 <a href="https://yukawing.github.io/MyHeroVSDragon/" target="_blank">Click to Play</a>  
   

@@ -3,7 +3,7 @@
     background-color: #009933;
     border: none;
     color: white;
-    padding: 30px 64px;
+    padding: 20px 42px;
     text-align: center;
     text-decoration: none;
     display: inline-block;

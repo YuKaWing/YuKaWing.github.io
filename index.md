@@ -1,13 +1,13 @@
 <style>
   .button {
-    background-color: #339933;
+    background-color: #009933;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 30px 64px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 32px;
     margin: 4px 2px;
     cursor: pointer;
   }
@@ -28,8 +28,10 @@ Overwhelmed is a moblie game developed with Unity. It was a integrated group pro
 <button class="button" onclick="window.open('https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk')" type="button"><b>Download apk</b></button>
   
 <h1><b>My Hero VS Dragon</b></h1>  
-My Hero VS Dragon is a web platfom game developed with Phaser 3, a HTML5 game framework. It was a group project of BscIMT in HKPolyU and I involved in the game mechanism design and level designs of  "inside castle", "outside castle" and "cliff".  
-<img src="assets/images/MHVSD.JPG" alt="My Hero VS Dragon is a good game" width="728"/>   
+My Hero VS Dragon is a web platfom game developed with Phaser 3, a HTML5 game framework. It was a group project of BscIMT in HKPolyU and I involved in the game mechanism design and level designs of  "inside castle", "outside castle" and "cliff". 
+
+<img src="assets/images/MHVSD.JPG" alt="My Hero VS Dragon is a good game" width="728"/>  
+
 <button class="button" onclick="window.open('https://yukawing.github.io/MyHeroVSDragon/')" type="button"><b>Click to Play</b></button>
   
 <h1><b>Robot car's control system</b></h1>

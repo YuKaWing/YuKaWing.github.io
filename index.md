@@ -1,6 +1,6 @@
 <h1>Overwhelmed!</h1>
 Overwhelmed is a moblie game developed by Unity. It is a integrated group project in my subject of BscIMT of HKPolyU, I involved in the game design and most of the programming part of the game.  
-<img src="assets/images/Overwhelmed.jpg" alt="Overwhelmed is a good game" width="500"/>  
+<!--<img src="assets/images/Overwhelmed.jpg" alt="Overwhelmed is a good game" width="500"/>>  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZnMalX_x2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <a href="https://github.com/YuKaWing/YuKaWing.github.io/releases/download/1.0/Overwhelmed.apk">Download apk</a>  
   

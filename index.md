@@ -13,7 +13,7 @@
   }
   
   button:hover {
-    background-color: #99ff66;
+    background-color: #66ff33;
   }
 </style>
 <h1><b>Deep Learning for Content-based Image Retrieval</b></h1>

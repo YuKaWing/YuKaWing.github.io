@@ -39,7 +39,7 @@ My Hero VS Dragon is a web platfom game developed with Phaser 3, a HTML5 game fr
 <button onclick="window.open('https://yukawing.github.io/MyHeroVSDragon/')" type="button"><b>Click to Play</b></button>
   
 <h1><b>Robot Car's Control System</b></h1>
-This was my intergrated project of HDEIE in HKPolyU. The project was aimed to program a control system for a robot car. A grade of A+ was received on this project. A champion was awared in the competition of Tntegrated Project Challenge Cup 2018-19, which hosted by the EIE Department of HKPolyU.
+This was my intergrated project of HDEIE in HKPolyU. The project was aimed to program a control system for a robot car. A grade of A+ was received on this project. A champion was awared in the competition of Integrated Project Challenge Cup 2018-19, which hosted by the EIE Department of HKPolyU.
 <iframe width="728" height="410" src="https://www.youtube.com/embed/2e2y3eIyW04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/AA_zwU1kvqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/PRHdDNg9J_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

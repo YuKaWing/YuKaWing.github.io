@@ -22,7 +22,7 @@ This was my final year project of BScIMT. AIs were trained with TensorFlow in Py
 <button onclick="window.open('https://drive.google.com/file/d/1X4lmKY1XoYyUEmwyWykA7zKIOCXGOAFV/view?usp=sharing')" type="button"><b>Read Report</b></button>
 
 <h1><b>Drum Game for the Elderly</b></h1>
-This was a service learning project under the Department of Biomedical Engineering of HKPolyU aimed to provide entertainment for the elderly. This game was developed with Unity. I was responsible for the duo mode, drum beat editing system, UI design and data design of the game. This game has an awesome feature which the eldely can input their favourate songs to the game and play it after editing. 
+This was a service learning project under the Department of Biomedical Engineering of HKPolyU aimed to provide entertainment for the elderly. This game was developed with Unity. I was responsible for the duo mode, drum beat editing system, UI design and data design of the game. This game has an awesome feature which the eldely can input their favourite songs to the game and play it after editing. 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/irHXQbMf88M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1><b>Overwhelmed!</b></h1>

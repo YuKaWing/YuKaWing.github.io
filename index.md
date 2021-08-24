@@ -19,7 +19,7 @@
 <h1><b>Deep Learning for Content-based Image Retrieval</b></h1>
 This was a final year project of BScIMT. AIs were trained with TensorFlow in Python. This project applied deep learning on content-based image retrieval by extracting features from fine-tuned VGG16 and fine-tuned ResNet50. It was found that fine-tuned ResNet50 was a better image descriptor than fine-tuned VGG16.
 <iframe width="728" height="410" src="https://www.youtube.com/embed/q0gc9qqTNK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<button onclick="window.open('https://docs.google.com/document/d/1sVu9fCrdPEZppYBu7nkQrHQZn31YFHPMxxMI_-I9Dno/edit?usp=sharing')" type="button"><b>Read Report</b></button>
+<button onclick="window.open('https://drive.google.com/file/d/1X4lmKY1XoYyUEmwyWykA7zKIOCXGOAFV/view?usp=sharing')" type="button"><b>Read Report</b></button>
 
 <h1><b>Drum Game for the Elderly</b></h1>
 This was a service learning project under the Department of Biomedical Engineering of HKPolyU aimed to provide entertainment for the elderly. This game was developed with Unity. I was responsible for the duo mode, drum beat editing system, UI design and data design of the game. This game has a awesome feature which the eldely can input their favourate songs to the game and play it after editing. 
